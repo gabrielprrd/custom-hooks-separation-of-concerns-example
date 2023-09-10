@@ -12,6 +12,7 @@ export default function ProgressBar(props: Props) {
   return (
     <progress
       {...props}
+      role="progressbar"
       className="w-full [&::-webkit-progress-value]:rounded-r-lg [&::-webkit-progress-bar]:bg-transparent [&::-webkit-progress-value]:bg-violet-400 [&::-moz-progress-bar]:transparent"
       aria-label="Page scroll progress"
       tabIndex={0}
