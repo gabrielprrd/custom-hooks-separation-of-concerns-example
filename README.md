@@ -1,6 +1,6 @@
 # Custom hooks: separation of concerns
 
-This repository is an example used in my [blog post](https://dev.to/gabrielprrd/custom-react-hooks-can-be-used-for-more-than-just-reusability-564-temp-slug-1212046) about how React custom hooks can simplify component logic and separate data display from implementation details.
+This repository is an example used in my [blog post](https://dev.to/gabrielprrd/custom-react-hooks-go-beyond-reusability-2hgh) about how React custom hooks can simplify component logic and separate data display from implementation details.
 
 Technologies:
 
